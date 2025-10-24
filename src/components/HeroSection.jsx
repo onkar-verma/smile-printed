@@ -1,16 +1,23 @@
 import React from "react";
+import logo from "../assets/logo.svg";
 
 const HeroSection = () => {
   return (
     <section className="text-center py-16 px-6">
+      <img
+        src={logo}
+        alt="Smile Printed Logo"
+        className="mx-auto w-24 h-24 mb-4"
+      />
       <h1 className="text-4xl sm:text-5xl font-bold text-pink-600 mb-4">
         Smile Printed
       </h1>
       <p className="text-lg text-gray-700 max-w-2xl mx-auto">
         We specialize in <strong>Custom Gifts & Printing</strong> — from
-        personalized <strong>Fridge Magnets</strong>, <strong>Polaroids</strong>, 
-        and <strong>Keychains</strong> to <strong>Badges</strong>, <strong>Stickers</strong>, 
-        and <strong>Photo Frames</strong>. Perfect for gifts, events, and memories!
+        personalized <strong>Fridge Magnets</strong>, <strong>Polaroids</strong>
+        , and <strong>Keychains</strong> to <strong>Badges</strong>,{" "}
+        <strong>Stickers</strong>, and <strong>Photo Frames</strong>. Perfect
+        for gifts, events, and memories!
       </p>
 
       <div className="mt-8">
