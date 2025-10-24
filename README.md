@@ -19,7 +19,7 @@ This repository contains the **Coming Soon Landing Page** built using **React + 
 - GitHub Pages (for hosting)
 
 ## 🌐 Live Demo
-👉 [https://onkar-verma.github.io/smile-printed/](https://yourusername.github.io/smile-printed/)
+👉 [https://onkar-verma.github.io/smile-printed/](https://onkar-verma.github.io/smile-printed/)
 
 ## 💬 Contact
 📱 WhatsApp: [+91 9670010404](https://wa.me/919670010404)  
